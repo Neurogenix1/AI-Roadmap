@@ -27,9 +27,9 @@
 
 دوره‌های ویدیویی:
 
-🎬 [MIT 18.06 Linear Algebra - Gilbert Strang](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C)انگلیسی
+🎬 [MIT 18.06 Linear Algebra - Gilbert Strang](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C) انگلیسی
 
-🎬 [آموزش سریع و آسان جبر خطی در 3 ساعت](https://www.youtube.com/watch?v=7HGs3DnfwMg&list=PLhXlv288E_Af5wiQwfYOTxuRRN2N8mbLi)فارسی
+🎬 [آموزش سریع و آسان جبر خطی در 3 ساعت](https://www.youtube.com/watch?v=7HGs3DnfwMg&list=PLhXlv288E_Af5wiQwfYOTxuRRN2N8mbLi) فارسی
 
 
 💡 پیشنهاد: مسیر یادگیری مرحله‌ای باشه: اول مفاهیم پایه‌ای، بعد جزئیات پیشرفته وقتی نیاز شد. این روش هم شما را سریع وارد دنیای هوش مصنوعی می‌کنه و هم امکان عمیق شدن در آینده فراهم می‌کنه.
@@ -85,9 +85,9 @@ Calculus, 8th Edition(ای کتاب به شدت پر بار هستش به همه
 
 دوره‌های ویدیویی:
 
-🎬 [Probability and Statistics](https://www.youtube.com/watch?v=sQqniayndb4&list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V)انگلیسی
+🎬 [Probability and Statistics](https://www.youtube.com/watch?v=sQqniayndb4&list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V) انگلیسی
 
-🎬 [آمار و احتمال مهندسی](https://www.youtube.com/watch?v=wOtP9TYI6RU&list=PLcWKTjAZ37rVV_OxjUqXOgjar_XrErDKc)فارسی
+🎬 [آمار و احتمال مهندسی](https://www.youtube.com/watch?v=wOtP9TYI6RU&list=PLcWKTjAZ37rVV_OxjUqXOgjar_XrErDKc) فارسی
 
 
 💡 پیشنهاد: بنظر من کتاب رو یه نگاهی بندازید و دوره خارجی رو ببیند بینظیره
