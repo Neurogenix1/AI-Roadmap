@@ -99,6 +99,7 @@ Calculus, 8th Edition(این کتاب به شدت پر بار هستش به هم
 در اخر اگر میخواین مبتدیانه از این بحث خارج بشید و برید ادامه که یه سری منبع بهتون معرفی میکنم
 
 دوره‌های ویدیویی:
+
 (زبان فارسی)
 https://www.youtube.com/watch?v=ZsbkUAZ_VYA&list=PLOgzyCy5ru7Khm-mm3XwUIQ6-Bi7CJLI4
 https://www.youtube.com/watch?v=jiCaFQHfVi4&list=PLfPSriIXnGeWQ1R8aBYsWs-nnpsefah6W
